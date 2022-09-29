@@ -20,8 +20,9 @@ My previous experience makes me feel like I can be a good software tester becaus
 
 
 ## Courses 
--	Manual QA at [IQAEngineer](https://iqaengineer.com/nachalnyj-uroven/) 
--	QA Automation Testing & Python Challenge at [Dare IT](https://challenges.dareit.io/ua-qa) 
+-	QA Automating Testing at [Dare IT](https://challenges.dareit.io/ua-qa) ([certificate](https://github.com/iryna-mirkevych/portfolio/blob/main/QA_Certificate_Dare_IT_I.Mirkevych.pdf))
+-	QA Beginner Level at [IQAEngineer](https://iqaengineer.com/nachalnyj-uroven/) ([certificate](https://github.com/iryna-mirkevych/portfolio/blob/main/QA_Certificate_iQAEngineer_I.Mirkevych.jpg))
+
 
 ## Tools 
 - Git, GitHub
@@ -39,8 +40,8 @@ My previous experience makes me feel like I can be a good software tester becaus
 ## Projects
 
 ### Automated test cases
-- [PyCharm project](https://github.com/iryna-mirkevych/dare_mirkevych)
-- [Robot Framework project](https://github.com/iryna-mirkevych/mirkevych_robotframework)
+- [Python + Selenium Webdriver Project](https://github.com/iryna-mirkevych/dare_mirkevych)
+- [Robot Framework Project](https://github.com/iryna-mirkevych/mirkevych_robotframework)
 - [schreencast of run test cases](https://drive.google.com/drive/folders/1JFdwiE4B2Q7kZeC2dZa8C9WsClDPJtSZ?usp=sharing)
 ### Test documentation 
 - [test cases](https://docs.google.com/document/d/1-DwCVOq9JoY1OUMl6_1tI2z7aN45ZSixn7TlsYlUj50/edit?usp=sharing)
