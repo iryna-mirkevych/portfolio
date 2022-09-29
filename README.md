@@ -8,8 +8,8 @@ I have been working as a "legal tester" (mostly in capital markets and financing
 I do have a tester’s mindset and desire to find and fix bugs, as well as to make improvements. 
 My previous experience makes me feel like I can be a good software tester because I practice things as follow: 
 - business- and result-oriented approach
-- finding balance among business interest, speed, quality, and actual ability to reach some goals
-- constant switching between levels (attention to detail keeping in mind the whole system and ultimate aims)
+- finding balance among business interest, speed, quality, and actual ability to reach certain goals
+- constant switching between levels (attention to detail while keeping in mind the whole system and ultimate aims)
 
 [LinkedIn profile](https://www.linkedin.com/in/iryna-mirkevych-279ab220/)
 
